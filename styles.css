@@ -1,6 +1,6 @@
 * {
-    margin: 0px;
-    padding: 0px;
+    margin: 0rem;
+    padding: 0rem;
     text-decoration: none;
     font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
 }
@@ -21,16 +21,11 @@ header {
 }
 
 footer {
-    padding: .5rem;
+    padding: .5rem .5rem .3rem;
     text-align: center;
-    color: white;
+    font-size: .9rem;
+    color: #ffffff;
 }
-
-/*
-main {
-    background-color: red;
-}
-*/
 
 h1 {
     text-align: center;
@@ -40,8 +35,8 @@ h1 {
 h2 {
     background-color: #264653;
     color: #e9c46a;
-    padding: 5px 5px 3px;
-    margin-top: 15px;
+    padding: .5rem .5rem .3rem;
+    margin-top: 1.5rem;
 }
 
 a.normal:link {
@@ -87,12 +82,12 @@ a#foot:hover {
     background-color: #D5E0FF;
     padding: 2rem;
     text-align: center;
-    width: 800px;
-    min-width: 480px;
+    width: 50rem;
+    min-width: 30rem;
 }
 
 .list {
     text-align: left;
-    padding-top: 15px;
-    padding-left: 25px;
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
 }
