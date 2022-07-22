@@ -67,6 +67,14 @@ a#foot:hover {
     color: #2a9d8f;
 }
 
+ul {
+    text-align: left;
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    list-style-type: square;
+    color: #264653;
+}
+
 .quote {
     font-size: .85rem;
     font-style: italic;
@@ -86,8 +94,3 @@ a#foot:hover {
     min-width: 30rem;
 }
 
-.list {
-    text-align: left;
-    padding-top: 1.5rem;
-    padding-left: 1.5rem;
-}
