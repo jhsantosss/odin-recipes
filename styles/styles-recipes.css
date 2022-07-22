@@ -36,7 +36,24 @@ h2 {
     background-color: #264653;
     color: #e9c46a;
     padding: .5rem .5rem .3rem;
+}
+
+h3 {
+    background-color: #264653;
+    text-align: left;
+    color: #e9c46a;
+    padding: .5rem .5rem .3rem;
     margin-top: 1.5rem;
+}
+
+p#description {
+    text-align: justify;
+    color: #264653;
+}
+
+img {
+    margin: 1rem;
+    text-align: center;
 }
 
 a.normal:link {
@@ -72,7 +89,20 @@ ul {
     padding-top: 1.5rem;
     padding-left: 1.5rem;
     list-style-type: square;
+    list-style-position: inside;
     color: #264653;
+}
+
+ol {
+    text-align: left;
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    list-style-position: inside;
+    color: #264653;
+}
+
+ol li {
+    margin-bottom: 1rem;
 }
 
 .quote {
