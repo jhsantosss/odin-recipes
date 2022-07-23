@@ -52,8 +52,11 @@ p#description {
 }
 
 img {
-    margin: 1rem;
-    text-align: center;
+    padding: 1rem;
+    width: 95%;
+    max-width: 30rem;
+    box-sizing: border-box;
+    height: auto;
 }
 
 a.normal:link {
@@ -121,6 +124,5 @@ ol li {
     padding: 2rem;
     text-align: center;
     width: 50rem;
-    min-width: 30rem;
 }
 

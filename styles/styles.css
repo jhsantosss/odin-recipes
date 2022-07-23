@@ -75,6 +75,14 @@ ul {
     color: #264653;
 }
 
+img {
+    width: 95%;
+    max-width: 30rem;
+    box-sizing: border-box;
+    padding: .3rem;
+    height: auto;
+}
+
 .quote {
     font-size: .85rem;
     font-style: italic;
@@ -91,6 +99,4 @@ ul {
     padding: 2rem;
     text-align: center;
     width: 50rem;
-    min-width: 30rem;
 }
-
